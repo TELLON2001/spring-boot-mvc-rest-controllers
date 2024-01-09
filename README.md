@@ -23,7 +23,7 @@ This project is a template for building a Spring Boot application with MVC archi
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spring-boot-mvc-rest-controllers.git
+git clone https://github.com/TELLON2001/spring-boot-mvc-rest-controllers.git
 cd spring-boot-mvc-rest-controllers
 ```
 
